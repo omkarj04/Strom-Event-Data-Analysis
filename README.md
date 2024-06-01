@@ -1,0 +1,2 @@
+The "Strom Event Data Analysis" project explores the impact of storm events on various parameters. The analysis uses data to identify trends and patterns in storm occurrences, impacts on different regions, and related factors like economic losses and fatalities. Methodologies include data cleaning, exploratory data analysis, and visualization techniques to present findings effectively. The project aims to provide insights that can aid in better preparedness and response strategies for future storm events. 
+
